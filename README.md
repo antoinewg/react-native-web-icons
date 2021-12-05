@@ -11,11 +11,11 @@ npm install react-native-web-icons
 ## Usage
 
 ```js
-import { multiply } from "react-native-web-icons";
+import { Flash } from 'react-native-web-icons';
 
 // ...
 
-const result = await multiply(3, 7);
+<Flash size={20} />;
 ```
 
 ## Contributing
